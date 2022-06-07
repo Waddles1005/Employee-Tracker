@@ -216,4 +216,3 @@ function initialPrompt() {
 
 initialPrompt();
 
-// module.exports = initialPrompt;
